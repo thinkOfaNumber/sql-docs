@@ -78,7 +78,7 @@ You can understand the steps even if you decide not to perform them. The demonst
 - Advanced
 
 
-The text and supporting screenshots can become slightly inexact when the SSMS UI is tweaked over the months or years. Yet the screenshots remain effective for explanation if the discrepancies or only minor.
+The text and supporting screenshots can become slightly inexact when the SSMS UI is tweaked over the months or years. Yet the screenshots remain effective for explanation if the discrepancies are only minor.
 
 
 1. Connect with SSMS.
